@@ -1,0 +1,17 @@
+{
+    "name": "digilynx/digilynx-plugin",
+    "description": "Awesome starter plugin example",
+    "type": "project",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "digilynx",
+            "email": "castellani.ale@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Incs\\": "./incs"}
+    }
+}
